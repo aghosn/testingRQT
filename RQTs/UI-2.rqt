@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Requirement>
+    <ID>UI-2</ID>
+    <Title>Display &amp; Formatting</Title>
+    <Type>UserInterfaceRequirement</Type>
+    <DegreeOfNecessity>Essential</DegreeOfNecessity>
+    <Description>
+        <Text>Elements of different importance should have difference sizes. &#xD;
+That implies that the use of &lt;strong&gt;, &lt;u&gt; &amp; &lt;i&gt; (strong, you and I ...) is prohibited. &#xD;
+For reference, use the Tufte's website.</Text>
+        <SupportingDocument>http://www.edwardtufte.com/tufte/</SupportingDocument>
+    </Description>
+    <UseCases>
+        <Text>None</Text>
+        <SupportingDocument></SupportingDocument>
+    </UseCases>
+    <Verification>
+        <Prototypes>
+            <Text></Text>
+            <SupportingDocument></SupportingDocument>
+        </Prototypes>
+        <TestCases>
+            <Text></Text>
+            <SupportingDocument></SupportingDocument>
+        </TestCases>
+    </Verification>
+</Requirement>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Requirement>
+    <ID>FR-1</ID>
+    <Title>Git Synchronization</Title>
+    <Type>FunctionalRequirement</Type>
+    <DegreeOfNecessity>Essential</DegreeOfNecessity>
+    <Description>
+        <Text>The webapp must be able to connect to and clone a remote git repository. &#xD;
+This requirement is essential for the webapp to be useful. </Text>
+        <SupportingDocument></SupportingDocument>
+    </Description>
+    <UseCases>
+        <Text>Used everywhere. </Text>
+        <SupportingDocument>https://eclipse.org/jgit/</SupportingDocument>
+    </UseCases>
+    <Verification>
+        <Prototypes>
+            <Text></Text>
+            <SupportingDocument></SupportingDocument>
+        </Prototypes>
+        <TestCases>
+            <Text>Tested thanks to a github repository for the moment. &#xD;
+Other hosts will soon be tested too.</Text>
+            <SupportingDocument>https://github.com/aghosn/testingRQT.git</SupportingDocument>
+        </TestCases>
+    </Verification>
+</Requirement>

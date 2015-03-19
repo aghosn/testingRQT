@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Requirement>
+    <ID>UI-1</ID>
+    <Title>Simplicity in the UI</Title>
+    <Type>UserInterfaceRequirement</Type>
+    <DegreeOfNecessity>Essential</DegreeOfNecessity>
+    <Description>
+        <Text>The first requirement is to keep a clean and simple UI. &#xD;
+The original formulation of the requirement was &quot;Something like Gmail, not like outlook&quot;. &#xD;
+Hence, according to the related documents, that implies very little buttons. </Text>
+        <SupportingDocument>C:\Users\chadgho\Pictures\gmail.jpeg;C:\Users\chadgho\Pictures\screen_outlook_3.png</SupportingDocument>
+    </Description>
+    <UseCases>
+        <Text></Text>
+        <SupportingDocument></SupportingDocument>
+    </UseCases>
+    <Verification>
+        <Prototypes>
+            <Text>No protos</Text>
+            <SupportingDocument></SupportingDocument>
+        </Prototypes>
+        <TestCases>
+            <Text></Text>
+            <SupportingDocument></SupportingDocument>
+        </TestCases>
+    </Verification>
+</Requirement>
